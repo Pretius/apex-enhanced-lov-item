@@ -1,0 +1,33 @@
+{
+  "name" : "APEX Enhanced LOV item",
+  "version" : "2.2.0",
+  "description" : "APEX Enhanced LOV item plugin was created to meet business needs such as filter report data for multiple values, autocomplete.",
+  "keywords" : ["lov", "items", "item"],
+  "homepage" : "http://apex.pretius.com",
+  "bugs" : {
+    "url" : "http://apex.pretius.com",
+    "email" : "apex@pretius.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Bartosz Ostrowski",
+    "email" : "apex@pretius.com",
+    "url" : "http://www.pretius.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1"],
+    "apex" : {
+      "versions" : ["4.2"],
+      "plugin" : {
+        "internalName" : "apex.enahnced.lov.item",
+        "type" : "dynamic action",
+        "demo" : "http://apex.pretius.com/apex/f?p=APEX:APEX_Enhanced_LOV_item",
+        "previewImage" : "https://raw.githubusercontent.com/Dani3lSun/apex-plugin-guidedtour/master/preview.png"
+      }
+    }
+  }
+}
