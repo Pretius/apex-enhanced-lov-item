@@ -1,9 +1,9 @@
 {
-  "name" : "APEX Enhanced LOV item",
+  "name" : "Pretius Enhanced LOV item",
   "version" : "2.2.0",
   "description" : "APEX Enhanced LOV item plugin was created to meet business needs such as filter report data for multiple values, autocomplete.",
   "keywords" : ["lov", "items", "item"],
-  "homepage" : "http://apex.pretius.com",
+  "homepage" : "http://pretius.com/technologies/oracle-apex/",
   "bugs" : {
     "url" : "http://apex.pretius.com",
     "email" : "apex@pretius.com"
