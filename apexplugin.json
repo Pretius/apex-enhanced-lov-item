@@ -16,7 +16,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour.git"
+    "url" : "https://github.com/Pretius/apex-enhanced-lov-item.git"
   },
   "oracle" : {
     "versions" : ["11.2.0.1"],
@@ -26,7 +26,7 @@
         "internalName" : "apex.enahnced.lov.item",
         "type" : "dynamic action",
         "demo" : "http://apex.pretius.com/apex/f?p=APEX:APEX_Enhanced_LOV_item",
-        "previewImage" : "https://raw.githubusercontent.com/Dani3lSun/apex-plugin-guidedtour/master/preview.png"
+        "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-lov-item/master/preview.png"
       }
     }
   }
