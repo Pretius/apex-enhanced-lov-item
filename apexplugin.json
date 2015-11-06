@@ -1,7 +1,7 @@
 {
   "name" : "Pretius Enhanced LOV item",
   "version" : "2.2.0",
-  "description" : "APEX Enhanced LOV item plugin was created to meet business needs such as filter report data for multiple values, autocomplete.",
+  "description" : "One dictionary and many select possibilities: autofilter, popup, paste and more",
   "keywords" : ["lov", "items", "item"],
   "homepage" : "http://pretius.com/technologies/oracle-apex/",
   "bugs" : {
@@ -24,7 +24,7 @@
       "versions" : ["4.0.0", "4.1.0", "4.2.0"],
       "plugin" : {
         "internalName" : "apex.enahnced.lov.item",
-        "type" : "dynamic action",
+        "type" : "item",
         "demo" : "http://apex.pretius.com/apex/f?p=777:30:17436366561386",
         "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-lov-item/master/preview.png"
       }
