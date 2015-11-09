@@ -1,3 +1,8 @@
+##Check our APEX Plugins
+* Pretius APEX Client Side Validation -> http://bit.ly/1NEPR5T
+* Pretius APEX Enhanced LOV item -> http://bit.ly/1iO8qrr
+* Pretius APEX Enhanced Column Attributes -> http://bit.ly/1GT5Pbg
+
 ##Intro
 **The plugin works only with APEX 4.x at the moment. Version for APEX 5 will be released soon. Check our roadmap for all planned improvements.**
 APEX Enhanced LOV item plugin was created to meet business needs for items that provide the following features:
