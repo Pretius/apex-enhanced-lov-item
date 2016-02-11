@@ -4,7 +4,7 @@
 * Pretius APEX Enhanced Column Attributes -> http://bit.ly/1GT5Pbg
 
 ##Intro
-**The plugin works only with APEX 4.x at the moment. Version for APEX 5 will be released soon. Check our roadmap for all planned improvements.**
+**The plugin works with APEX 4.x and APEX 5. Version for APEX 5 has been released in February 2016. Check our roadmap for all planned improvements.**
 APEX Enhanced LOV item plugin was created to meet business needs for items that provide the following features:
 * Filter report data for multiple values
 * Fast autocomplete while typing
@@ -20,6 +20,7 @@ The main approach and requirement is "One dictionary and many select possibiliti
 * Optional displaying return value in autocomplete and popup dialog
 * Support for pasting multiple values
 * Customizable "column sequence" without changing the plugin query definition
+* APEX 5 compatibility
 * Cross browser compatibility in 3 browsers: IE8+, Chrome, FireFox
 * Support for translating the plugin labels
 * Integration with APEX dynamic actions
@@ -27,7 +28,6 @@ The main approach and requirement is "One dictionary and many select possibiliti
 * Support for large dictionaries (up to 30 000 rows and more)
 
 ##Roadmap
-* APEX 5 compatibility
 * New appearance for autocomplete results
 * New attribute "Maximum number of rows to display" for autocomplete mode
 * Support for setting independent "order by" clause for autocomplete and popup dialog results
