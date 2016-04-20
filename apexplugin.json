@@ -24,7 +24,7 @@
       "versions" : ["4.1.0", "4.2.6", "5.0.0"],
       "plugin" : {
         "internalName" : "apex.enahnced.lov.item",
-        "type" : "dynamic action",
+        "type" : "item",
         "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_LOV_ITEM_APEX_ITEM",
         "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-lov-item/master/preview.jpg"
       }
