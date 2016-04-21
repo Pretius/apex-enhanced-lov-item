@@ -1,4 +1,4 @@
-#Pretius APEX Enhanced LOV item v2.2.1
+#Pretius APEX Enhanced LOV item
 ##### Oracle APEX item plugin v2.2.1.
 The plugin is Oracle APEX item plugin providing new functionalities within text fields. Basing on APEX list of values the plugin allows to pick values from autofilter and modal popup. The settings of autofilter, popup dialog and others can be configured with 14 the plugin attributes.
 
